@@ -1,4 +1,4 @@
-1, m;
-2, M;
-3, m7/rt;
-4, M7/rt;
+1, m doubled;
+2, M doubled;
+3, m7 "8ves root";
+4, M7 "8ves root";
