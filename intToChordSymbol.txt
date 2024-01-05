@@ -2,3 +2,5 @@
 2, M doubled;
 3, m7 "8ves root";
 4, M7 "8ves root";
+5, m9 "7 on 3 / 1-7";
+6, M9 "7 on 3 / 1-7";
